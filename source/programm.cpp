@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 //Version 1.02 
+=======
+//Version 1.02
+>>>>>>> np_revert1.01
 #include <iostream>
 
 int main(){
